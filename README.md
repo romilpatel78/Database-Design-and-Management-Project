@@ -18,3 +18,37 @@ Designed and demonstrated relational database from scratch for 20 fashion stores
 # Database Design
 
 ![](https://github.com/romilpatel78/Database-Design-and-Management-Project/blob/master/Database%20Diagram.PNG)
+
+# Assumptions
+
+• Store may have at least one or more than one product inventory.
+
+• Product Inventory may at least one store or more than one store.
+
+• Manufacturer may not supply any inventory.
+
+• Customer may not make any sales.
+
+• Sale may be made by one and only one customer.
+
+• Customer may use at least one payment method.
+
+• Store may have at least one inventory.
+
+• Store may not have any sales.
+
+• Sale may be made at least one store.
+
+• Store may have at least one sales associate.
+
+• Sales associates may not help any customer, if customer don’t need help.
+
+• Sales associates may not credit for any sales.
+
+• Manager may supervise at least one sales associate.
+
+• At least one customer may get at least one coupon.
+
+• For return with receipt there may be at least one sale or at least one item to be purchased.
+
+• For return without receipt at least one or many items may purchase by at least one customer.
